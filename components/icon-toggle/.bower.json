@@ -1,0 +1,27 @@
+{
+  "name": "icon-toggle",
+  "homepage": "https://github.com/Polymer/element-tutorial",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "iron-icon": "PolymerElements/iron-icon#^1.0.0",
+    "iron-icons": "PolymerElements/iron-icons#^1.0.0"
+  },
+  "_release": "59ac601d1f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "59ac601d1f3325ba241e5f2963affed468bd4acd"
+  },
+  "_source": "https://github.com/jpilchisu/icon-toggle.git",
+  "_target": "master",
+  "_originalSource": "jpilchisu/icon-toggle",
+  "_direct": true
+}
